@@ -1,0 +1,53 @@
+TRABALHO FINAL
+Você deve criar um Catálogo de Músicas e Artistas, onde seja possível cadastrar músicas e suas informações, artistas e seus dados, e também associar músicas a artistas. Além disso, o sistema deve permitir consultas diversas.
+
+Detalhamento das funcionalidades
+
+
+Menu principal para acesso às funcionalidades.
+
+
+Inclusão de novo artista / Exclusão de artista.
+
+Inclusão de nova música, informando de qual artista é aquela música / Exclusão de música.
+
+
+Consultas
+
+
+Todas as músicas de um artista.
+
+Música por nome.
+
+Músicas cujo nome contém uma string informada pelo usuário.
+
+
+Tratamento de erros
+
+
+Informar inclusão de música ou artista que já existe.
+
+Informar exclusão de música ou artista que não existe.
+
+Informar busca de música ou artista que não existe.
+
+Gravação/leitura de dados em disco
+
+
+
+
+
+
+
+
+
+
+
+Apresentação do trabalho
+TODOS devem apresentar seu trabalho no dia 01/12/2017, no Lab 7001, a partir de 19h30.
+
+Você deve enviar seu código fonte para o Github, e pode ir fazendo isso ao longo do desenvolvimento do código. Acesse o link abaixo, aceite a tarefa “Trabalho FInal – LTP1 – 201702” e configure seu Eclipse para o link informado pelo Github. Ao finalizar o trabalho, seu código deve ser enviado OBRIGATORIAMENTE via Github.
+
+	Link de acesso: https://classroom.github.com/a/3I0-emfW
+
+BOA SORTE!

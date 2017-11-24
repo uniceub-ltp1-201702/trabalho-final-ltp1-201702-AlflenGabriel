@@ -1,0 +1,4 @@
+Bob Marley;Reggae;Jamaica
+Bob Dylan;Rock;Estados Unidos
+Metallica;Metal;Estados Unidos
+Coldplay;Pop;Inglaterra
